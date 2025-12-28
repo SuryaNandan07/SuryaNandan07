@@ -34,6 +34,6 @@
 
 
 <div>
-![GitHub Contribution Snake](https://raw.githubusercontent.com/SuryaNandan07/SuryaNandan07/output/snake.svg)
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/SuryaNandan07/SuryaNandan07/output/snake.svg)
 </div>
