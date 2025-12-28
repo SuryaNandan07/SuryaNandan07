@@ -31,6 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryanandan07&show_icons=true&locale=en" alt="suryanandan07" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanandan07&" alt="suryanandan07" /></p>
-<div class="snake-game">
+<div>
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/SuryaNandan07/SuryaNandan07/output/snake.svg)    
 </div>
