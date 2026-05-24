@@ -59,22 +59,6 @@
 <p align="center">
   <img 
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Sidsmartz&show_icons=true&theme=radical&hide_border=true&border_radius=15"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidsmartz&layout=compact&theme=radical&hide_border=true&border_radius=15"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="180"
     src="https://github-readme-streak-stats.herokuapp.com?user=Sidsmartz&theme=radical&hide_border=true&border_radius=15"
     alt="GitHub Streak"
   />
