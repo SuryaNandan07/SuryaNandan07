@@ -59,7 +59,7 @@
 <p align="center">
   <img 
     height="180"
-    src="https://github-readme-streak-stats.herokuapp.com?user=Sidsmartz&theme=radical&hide_border=true&border_radius=15"
+    src="https://github-readme-streak-stats.herokuapp.com?user=SuryaNandan07&theme=radical&hide_border=true&border_radius=15"
     alt="GitHub Streak"
   />
 </p>
