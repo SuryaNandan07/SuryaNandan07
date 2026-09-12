@@ -69,9 +69,6 @@
   <img src="space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
 
----
-
-
 <div>
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/SuryaNandan07/SuryaNandan07/output/snake.svg)
